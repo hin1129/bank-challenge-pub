@@ -1,0 +1,27 @@
+{
+  "name": "bank-challenge",
+  "version": "1.0.0",
+  "description": "This challenge helps you practice your OO design skills.",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jasmine",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hin1129/bank-challenge.git"
+  },
+  "author": "hin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hin1129/bank-challenge/issues"
+  },
+  "homepage": "https://github.com/hin1129/bank-challenge#readme",
+  "devDependencies": {
+    "jasmine": "^4.5.0"
+  }
+}
