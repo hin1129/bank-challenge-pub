@@ -1,4 +1,4 @@
-# Academy Project - Bank
+# Academy Project - Bank Challenge
 
 This challenge helps you practice your OO design skills.
 
