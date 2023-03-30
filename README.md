@@ -4,6 +4,8 @@ This challenge helps you practice your OO design skills.
 
 You'll work alone, and you'll also review your own code so you can practice reflecting on and improving your own work.
 
+Given a user makes a deposit and a withdrawal, when user prints a bank statement should see the records on transaction history.
+
 ## Specification
 
 ### Requirements
