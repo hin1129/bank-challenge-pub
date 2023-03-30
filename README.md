@@ -1,6 +1,6 @@
 # Academy Project - Bank Challenge
 
-Given a user prints a bank statement, it displays the transaction histories of the deposits and withdrawals amounts.
+Given a user prints a bank statement, displays the transaction histories of the deposits and withdrawals amounts.
 
 ## Specification
 
