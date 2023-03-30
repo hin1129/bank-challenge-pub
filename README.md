@@ -1,9 +1,5 @@
 # Academy Project - Bank Challenge
 
-This challenge helps you practice your OO design skills.
-
-You'll work alone, and you'll also review your own code so you can practice reflecting on and improving your own work.
-
 Given a user prints a bank statement, it displays the transaction histories of the deposits and withdrawals amounts.
 
 ## Specification
