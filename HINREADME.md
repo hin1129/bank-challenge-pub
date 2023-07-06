@@ -27,7 +27,6 @@ object {date, credit, debit, balance}
 objects = printer
 functions = print (for)
 account1.printer.print()
-print format = /d
 ------------------------------------------------------
 ------------------------------------------------------
 

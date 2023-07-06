@@ -8,4 +8,9 @@ myAccount.depositAmount("10/01/2012", 1000)
 myAccount.depositAmount("13/01/2012", 2000)
 myAccount.withdrawalAmount("14/01/2012", 500)
 
+// // date object
+// myAccount.depositAmount(1000)
+// myAccount.depositAmount(2000)
+// myAccount.withdrawalAmount(500)
+
 console.log(Printer.print(myAccount));

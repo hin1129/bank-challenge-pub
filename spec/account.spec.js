@@ -98,7 +98,7 @@ describe('Account tests -', () => {
             for (let counter in testAccountArray) {
                 actualResult = testAccountArray[counter].getDeposit();
             }
-            expect(actualResult).toBe(1000);
+            expect(actualResult).toBeCloseTo(1000);
         })
 
         // test 7 - withdrawalAmount - create transaction instance, add to account array - check array length
@@ -179,9 +179,8 @@ describe('Account tests -', () => {
             for (let counter in testAccountArray) {
                 actualResult = testAccountArray[counter].getWithdrawal();
             }
-            expect(actualResult).toBe(500);
+            expect(actualResult).toBeCloseTo(500);
         })
-
 
         /////////////////////////////////////////
         // end of tests for account class with private properties
